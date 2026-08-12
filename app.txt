@@ -1,2 +1,6 @@
 Collaboration Demo Project
 Version 1.0
+
+Feature description:
+Add a simple task-tracking feature for project contributors.
+
