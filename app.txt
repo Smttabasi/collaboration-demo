@@ -2,5 +2,5 @@ Collaboration Demo Project
 Version 1.0
 
 Feature description:
-Add a simple task-tracking feature for project contributors.
+Add a simple task-tracking feature that helps contributors organize and monitor project tasks.
 
